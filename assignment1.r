@@ -16,7 +16,7 @@ library(data.table)
 ```
 
 ```{r}
-df1 = fread("hr-analytics-case-study/general_data.csv")
+df1 = fread("/home/aishwarya/Documents/Academia/Sem 5/DA/Assignment1/hr-analytics-case-study/general_data.csv")
 summary(df1)
 ```
 
